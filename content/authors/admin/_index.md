@@ -33,8 +33,6 @@ profiles:
   - icon: envelope
     url:  "mailto:u110495g@ecs.osaka-u.jp"
     label: E-mail Me
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/cv
     url: https://docs.google.com/document/d/1vCDTDvk_i_SfU4S0_wdxqqK7fUmmahpfSySXLn3YnB4/edit?tab=t.0
  
