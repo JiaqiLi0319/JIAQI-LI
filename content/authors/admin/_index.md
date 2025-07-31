@@ -3,7 +3,7 @@
 title: Jiaqi (Jacqui) Li
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 李佳骐
 
 # Full name (for SEO)
 first_name: Jiaqi
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 4th year Undergraduate
+role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Developmental Cognitive Science Lab, The university of Osaka
+  - name: Developmental Cognitive Science Lab, UOsaka
     url: https://babylab.hus.osaka-u.ac.jp/
 
 # Social network links
