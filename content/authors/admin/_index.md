@@ -63,22 +63,22 @@ education:
 skills:
   - name: Skills
     items:
-      - name: "Data analysis: R; SPSS"
-        description: ''
+      - name: "Data analysis"
+        description: 'R; SPSS'
         percent: 80
-        icon: code-bracket
-      - name: "Experimental Software: Tobii Eye Tracking; PsychoPy; jHab"
-        description: ''
+        icon: chart-bar
+      - name: "Experimental Software"
+        description: 'Tobii Eye Tracking; PsychoPy; jHab'
         percent: 100
-        icon: code-bracket
-      - name: "3D Modeling & Animation:Blender"
-        description: ''
+        icon: eye
+      - name: "3D Modeling & Animation"
+        description: 'Blender'
         percent: 40
-        icon: circle-stack
-      - name: "Video Editing: Wondershare; CapCut"
-        description: ''
+        icon: cube
+      - name: "Video Editing"
+        description: 'Wondershare; CapCut'
         percent: 40
-        icon: code-bracket
+        icon: film-strip
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -86,15 +86,15 @@ skills:
       - name: Baking (While listening to celebrity gossip Podcasts)
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: cookie
       - name: Reading
         description: ''
         percent: 100
-        icon: cat
+        icon: book
       - name: Gaming
         description: ''
         percent: 80
-        icon: camera
+        icon: game-controller
 
 languages:
   - name: Mandarin Chinese
