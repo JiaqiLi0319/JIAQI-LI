@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
 
- - block: spacing
+  - block: spacing
 
   - block: markdown
     content:
