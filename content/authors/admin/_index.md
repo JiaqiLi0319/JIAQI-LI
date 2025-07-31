@@ -77,7 +77,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-      - name: Video Editing: Wondershare; CapCut
+      - name: "Video Editing: Wondershare; CapCut"
         description: ''
         percent: 40
         icon: code-bracket
