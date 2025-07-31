@@ -33,11 +33,11 @@ profiles:
  
 
 research interests:
-  - Sociomoral development
+  - Socio-moral development
   - Cognitive development
 
 education:
-  - area: B.A. in Psychology and Behavioral Sciences
+  - area: B.A. in Psychology and Behavioral Sciences (Mar 2026)
     institution: The university of Osaka
     date_start: 2022-04-01
     date_end: 2026-03-31
