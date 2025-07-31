@@ -30,7 +30,8 @@ profiles:
     label: E-mail Me
   - icon: academicons/orcid
     url: https://orcid.org/0009-0008-4744-4529
- 
+   - icon: academicons/cv
+    url: https://docs.google.com/document/d/1vCDTDvk_i_SfU4S0_wdxqqK7fUmmahpfSySXLn3YnB4/edit?tab=t.0
 
 research interests:
   - Socio-moral development
