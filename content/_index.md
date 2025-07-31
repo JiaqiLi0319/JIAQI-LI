@@ -33,7 +33,7 @@ sections:
 
  - block: spacing
   design:
-    height: "4rem"  # Try "6rem" or more if you want a bigger gap
+    height: "6rem"  # Try "6rem" or more if you want a bigger gap
 
   - block: markdown
     content:
