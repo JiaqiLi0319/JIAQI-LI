@@ -9,10 +9,6 @@ name_pronunciation: ''
 first_name: Jiaqi
 last_name: Li
 
-# Status emoji
-status:
-  icon: 👶🏻
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -87,7 +83,7 @@ skills:
       - name: Baking (While listening to celebrity gossip Podcasts)
         description: ''
         percent: 60
-        icon: cookie
+        icon: chef-hat
       - name: Reading
         description: ''
         percent: 100
