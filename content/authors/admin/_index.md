@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jiaqi (Jacqui) Li
+title: Jiaqi Li
 
 # Name pronunciation (optional)
-name_pronunciation: She/Her
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jiaqi
