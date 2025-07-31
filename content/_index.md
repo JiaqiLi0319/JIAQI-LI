@@ -40,7 +40,7 @@ sections:
     design:
       columns: '1'
     spacing:
-    mt: '6'  # Tailwind spacing (e.g., '4' = 1rem, '6' = 1.5rem, etc.)
+      mt: '6'  # Tailwind spacing (e.g., '4' = 1rem, '6' = 1.5rem, etc.)
 
       # Page type to display. E.g. post, talk, publication...
       page_type: post
