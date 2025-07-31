@@ -76,11 +76,11 @@ skills:
       - name: 3D Modeling & Animation:Blender
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
       - name: Video Editing: Wondershare; CapCut
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
