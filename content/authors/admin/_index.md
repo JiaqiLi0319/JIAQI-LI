@@ -30,8 +30,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'u110495g@ecs.osaka-u.jp'
+  - icon: envelope
+    url:  "mailto:u110495g@ecs.osaka-u.jp"
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/
@@ -77,7 +77,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-      - name: Video Editing: Wondershare; CapCut
+      - name: Video Editing:Wondershare; CapCut
         description: ''
         percent: 40
         icon: circle-stack
