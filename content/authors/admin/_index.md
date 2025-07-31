@@ -3,7 +3,7 @@
 title: Jiaqi (Jacqui) Li
 
 # Name pronunciation (optional)
-name_pronunciation: 李佳骐
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jiaqi
