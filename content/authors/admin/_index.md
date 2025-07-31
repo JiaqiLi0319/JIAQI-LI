@@ -79,8 +79,8 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Baking (While listening to celebrity gossip Podcasts)
-        description: ''
+      - name: Baking 
+        description: 'While listening to celebrity gossip Podcasts'
         percent: 60
         icon: hero/cake
       - name: Reading
