@@ -78,7 +78,7 @@ skills:
       - name: "Video Editing"
         description: 'Wondershare; CapCut'
         percent: 40
-        icon: film-strip
+        icon: camera
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -100,9 +100,9 @@ languages:
   - name: Mandarin Chinese
     percent: 100
   - name: English
-    percent: 100
+    percent: 85
   - name: Japanese
-    percent: 100
+    percent: 95
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -115,5 +115,4 @@ awards:
 
 ## About Me
 
-Jiaqi (Jacqui) Li is in her final year of undergraduate studies in Psychology and Behavioral Sciences at the School of Human Sciences, the University of Osaka. Her research interests include socio-moral development and cognitive development, investigating infants’ capacity for action understanding and their ability to evaluate others in social contexts and make moral judgements. For the past two years, she has worked as a research fellow at the Developmental Cognitive Science Lab (PI: Dr. Yasuhiro Kanakogi).Currently, she is working on her individual project and planning to apply for PhD programs for Fall 2026!
-color: "text-white-500"
+Jiaqi (Jacqui) Li is in her final year of undergraduate studies in Psychology and Behavioral Sciences at the School of Human Sciences, the University of Osaka. Her research interests include socio-moral development and cognitive development, investigating infants’ capacity for action understanding and their ability to evaluate others in social contexts and make moral judgements. For the past two years, she has worked as a research fellow at the Developmental Cognitive Science Lab (PI: Dr. Yasuhiro Kanakogi). Currently, she is planning to apply for PhD programs for Fall 2026!
