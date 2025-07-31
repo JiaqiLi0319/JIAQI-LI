@@ -47,9 +47,10 @@ education:
       GPA: 3.67/4.0
 
       Courses included:
-      - Evolution and development of behavior（Developmental Psychology）, S
-      - Seminar in Comparative and Developmental Psychology, S
-      - 	Laboratory in Behavioral Sciences （Psychological Research Methods), S
+      - Evolution and development of behavior（Developmental Psychology）(S)
+      - Seminar in Comparative and Developmental Psychology (S)
+      - Laboratory in Behavioral Sciences （Psychological Research Methods) (S)
+      - Statistics A-I, A-II (A)
 
       •	Enrolled in the Accelerated Master’s Degree Program of Graduate School of Human Sciences
   
