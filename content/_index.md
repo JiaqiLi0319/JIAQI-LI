@@ -31,8 +31,6 @@ sections:
           position: center
           parallax: false
 
-  - block: spacing
-
   - block: markdown
     content:
       title: 'My Research'
