@@ -4,9 +4,9 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: ''
+  - name: Jiaqi (Jacqui) Li
     url: /
     weight: 10
-  - name: About
+  - name: Experience
     url: experience/
     weight: 20
