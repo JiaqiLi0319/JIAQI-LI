@@ -20,7 +20,7 @@ role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Developmental Cognitive Science Lab, UOsaka
+  - name: Developmental Cognitive Science Lab
     url: https://babylab.hus.osaka-u.ac.jp/
 
 # Social network links
@@ -29,8 +29,8 @@ profiles:
   - icon: envelope
     url:  "mailto:u110495g@ecs.osaka-u.jp"
     label: E-mail Me
-  - icon: academicons/cv
-    url: https://docs.google.com/document/d/1vCDTDvk_i_SfU4S0_wdxqqK7fUmmahpfSySXLn3YnB4/edit?tab=t.0
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0008-4744-4529
  
 
 research interests:
