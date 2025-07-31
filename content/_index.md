@@ -24,7 +24,7 @@ sections:
         color: gray
         image:
           # Add your image background to `assets/media/`.
-          filename: 5.svg
+          filename: blue.svg
           filters:
             brightness: 1.0
           size: cover
