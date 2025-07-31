@@ -61,6 +61,7 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
+
   - name: Skills
     items:
       - name: "Data analysis"
