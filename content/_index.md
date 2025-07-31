@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "8rem"
 
 sections:
   - block: resume-biography-3
@@ -41,7 +41,7 @@ sections:
     design:
       columns: '1'
     spacing:
-      mt: '6' 
+      mt: '8' 
 
       # Page type to display. E.g. post, talk, publication...
       page_type: post
