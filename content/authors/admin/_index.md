@@ -112,7 +112,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: The Monbukagakusho Honors Scholarship for Privately-Financed International Students (JPY 576,000)
-    date: '2023'
+    date: '2023-04-01'
 ---
 
 ## About Me
