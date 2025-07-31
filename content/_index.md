@@ -40,7 +40,8 @@ sections:
 
     design:
       columns: '1'
-      class: mt-24
+    spacing:
+      mt: '6' 
 
       # Page type to display. E.g. post, talk, publication...
       page_type: post
