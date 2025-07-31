@@ -15,7 +15,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Fellow
+role: B.A. (Mar 2026)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
