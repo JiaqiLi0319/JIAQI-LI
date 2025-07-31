@@ -1,10 +1,9 @@
 ---
 # Display name
-title: 李佳骐
+title: Jiaqi Li
 
 # Name pronunciation (optional)
-name_pronunciation: Jiaqi (Jacqui) Li
-
+name_pronunciation: ''
 # Full name (for SEO)
 first_name: Jiaqi
 last_name: Li
