@@ -46,8 +46,8 @@ research interests:
 education:
   - area: B.A. in Psychology and Behavioral Sciences
     institution: The university of Osaka
-    date_start: 2022-04
-    date_end: 2026-03
+    date_start: 2022-04-01
+    date_end: 2026-03-31
  
     summary: |
       GPA: 3.67/4.0
