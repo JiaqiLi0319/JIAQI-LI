@@ -65,19 +65,19 @@ education:
 skills:
   - name: Skills
     items:
-      - name: Data analysis:R; SPSS
+      - name: "Data analysis: R; SPSS"
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Experimental Software:Tobii Eye Tracking; PsychoPy; jHab 
+      - name: "Experimental Software: Tobii Eye Tracking; PsychoPy; jHab"
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: 3D Modeling & Animation:Blender
+        icon: code-bracket
+      - name: "3D Modeling & Animation:Blender"
         description: ''
         percent: 40
-        icon: "code-bracket"
-      - name: Video Editing: Wondershare; CapCut
+        icon:  code-bracket
+      - name: "Video Editing: Wondershare; CapCut"
         description: ''
         percent: 40
         icon: code-bracket
