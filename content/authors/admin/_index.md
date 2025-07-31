@@ -82,15 +82,15 @@ skills:
       - name: Baking (While listening to celebrity gossip Podcasts)
         description: ''
         percent: 60
-        icon: cake-slice
+        icon: hero/cake
       - name: Reading
         description: ''
         percent: 100
-        icon: book
+        icon: hero/book-open
       - name: Gaming
         description: ''
         percent: 80
-        icon: game-controller
+        icon: hero/tv
 
 languages:
   - name: Mandarin Chinese
