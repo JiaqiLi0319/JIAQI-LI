@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jiaqi Li
+title: 李佳骐
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Jiaqi (Jacqui) Li
 
 # Full name (for SEO)
 first_name: Jiaqi
@@ -83,7 +83,7 @@ skills:
       - name: Baking (While listening to celebrity gossip Podcasts)
         description: ''
         percent: 60
-        icon: chef-hat
+        icon: cake-slice
       - name: Reading
         description: ''
         percent: 100
