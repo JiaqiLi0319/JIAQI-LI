@@ -1,0 +1,9 @@
+/* Make all text brighter and more readable */
+body, 
+p, 
+h1, h2, h3, h4, h5, h6, 
+a, 
+li {
+  color: #f0f0f0 !important;  /* a bright off-white */
+  text-shadow: 0 0 5px rgba(0,0,0,0.3); /* subtle shadow for readability */
+}
