@@ -36,25 +36,14 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        Currently, I am leading an independent research project titled Infants' Early Sense of Moral Desert: Expectations of Deserved Outcomes, under the supervision of Dr. Kanakogi, investigating whether 14-month-olds expect helpers to receive positive outcomes and hinderers to receive negative ones. With data collection ongoing, I am excited to present preliminary findings at the upcoming LCICD 2025.In addition, I am co-leading another project with Dr. Hiromichi Hagihara and Dr. Kanakogi, which focuses on language development. This study uses eye-tracking to examine infants’ acquisition of abstract words (e.g., “bye-bye,” “here you go”).
+        Currently, I am leading an independent research project titled Infants' Early Sense of Moral Desert: Expectations of Deserved Outcomes, under the supervision of Dr. Kanakogi, investigating whether 14-month-olds expect helpers to receive positive outcomes and hinderers to receive negative ones. With data collection ongoing, I am excited to present preliminary findings at the upcoming LCICD 2025. In addition, I am co-leading another project with Dr. Hiromichi Hagihara and Dr. Kanakogi, which focuses on language development. This study uses eye-tracking to examine infants’ acquisition of abstract words (e.g., “bye-bye,” “here you go”).
 
     design:
       columns: '1'
     spacing:
       mt: '8' 
 
-  - block: markdown
-    content:
-      title: 'Manuscripts In Progress'
-      subtitle: ''
-      text: |-
-        [1]	Li, J., & Kanakogi, Y. (in preparation). Infants’ early sense of moral desert: Expectations of deserved outcomes.
-        [2]	Hagihara, H., Li, J., & Kanakogi, Y. (in preparation). Does an egocentric view affect the understanding of abstract words in preverbal infants?
-
-    design:
-      columns: '2'
-    spacing:
-      mt: '8' 
+ 
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
