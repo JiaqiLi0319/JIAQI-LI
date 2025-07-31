@@ -46,8 +46,8 @@ research interests:
 education:
   - area: B.A. in Psychology and Behavioral Sciences
     institution: The university of Osaka
-    date_start: 2022-04
-    date_end: 2026-03
+    date_start: 2022-04-01
+    date_end: 2026-03-31
  
     summary: |
       GPA: 3.67/4.0
@@ -65,22 +65,22 @@ education:
 skills:
   - name: Skills
     items:
-      - name: Data analysis:R; SPSS
+      - name: "Data analysis: R; SPSS"
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Experimental Software:Tobii Eye Tracking; PsychoPy; jHab 
+      - name: "Experimental Software: Tobii Eye Tracking; PsychoPy; jHab"
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: 3D Modeling & Animation:Blender
+        icon: code-bracket
+      - name: "3D Modeling & Animation:Blender"
         description: ''
         percent: 40
         icon: circle-stack
-      - name: Video Editing:Wondershare; CapCut
+      - name: Video Editing: Wondershare; CapCut
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -112,7 +112,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: The Monbukagakusho Honors Scholarship for Privately-Financed International Students (JPY 576,000)
-    date: '2023'
+    date: '2023-04-01'
 ---
 
 ## About Me
