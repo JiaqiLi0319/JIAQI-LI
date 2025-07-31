@@ -76,7 +76,7 @@ skills:
       - name: 3D Modeling & Animation:Blender
         description: ''
         percent: 40
-        icon: code-bracket
+        icon: "code-bracket"
       - name: Video Editing: Wondershare; CapCut
         description: ''
         percent: 40
