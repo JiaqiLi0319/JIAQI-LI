@@ -3,7 +3,7 @@
 title: Jiaqi (Jacqui) Li
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: She/Her
 
 # Full name (for SEO)
 first_name: Jiaqi
@@ -115,4 +115,4 @@ awards:
 
 ## About Me
 
-Jiaqi (Jacqui) Li is in her final year of undergraduate studies in Psychology and Behavioral Sciences at the School of Human Sciences, the University of Osaka. Her research interests include socio-moral development and cognitive development, investigating infants’ capacity for action understanding and their ability to evaluate others in social contexts and make moral judgements. For the past two years, she has worked as a research fellow at the Developmental Cognitive Science Lab (PI: Dr.Yasuhiro Kanakogi).Currently, she is working on her individual project and planning to apply for PhD programs for Fall 2026!
+Jiaqi (Jacqui) Li is in her final year of undergraduate studies in Psychology and Behavioral Sciences at the School of Human Sciences, the University of Osaka. Her research interests include socio-moral development and cognitive development, investigating infants’ capacity for action understanding and their ability to evaluate others in social contexts and make moral judgements. For the past two years, she has worked as a research fellow at the Developmental Cognitive Science Lab (PI: Dr. Yasuhiro Kanakogi).Currently, she is working on her individual project and planning to apply for PhD programs for Fall 2026!
