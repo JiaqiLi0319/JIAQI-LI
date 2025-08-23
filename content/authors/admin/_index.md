@@ -33,7 +33,7 @@ profiles:
   - icon: academicons/cv
     url: https://docs.google.com/document/d/1vCDTDvk_i_SfU4S0_wdxqqK7fUmmahpfSySXLn3YnB4/edit?tab=t.0
 
-research interests:
+research_interests:
   - Socio-moral development
   - Cognitive development
 
